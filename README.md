@@ -1,2 +1,4 @@
-# week06-react-todos
-Created with CodeSandbox
+Simple Todo app 
+
+
+[ ] need ref to input box to focus
